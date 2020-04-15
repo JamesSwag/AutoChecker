@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070111600780",
+    "firebase_url": "https://autochecker-88e64.firebaseio.com",
+    "project_id": "autochecker-88e64",
+    "storage_bucket": "autochecker-88e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070111600780:android:0d9d63b7eeeb59bce8cba9",
+        "android_client_info": {
+          "package_name": "com.example.autochecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070111600780-e7tenio3hcdp92ia5o0ap9k0tcediq3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3B3DqK6-YXxPDONBeGY1E4qdqOHywoAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070111600780-e7tenio3hcdp92ia5o0ap9k0tcediq3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
